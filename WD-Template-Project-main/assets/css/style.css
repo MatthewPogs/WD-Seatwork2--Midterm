@@ -1,0 +1,56 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    border-bottom: 3px solid black;
+    text-align: center;
+}
+
+
+
+.logo img {
+    width: 200px;
+    height: auto;
+    background-color: transparent;
+  }
+
+header p {
+    margin: 5px 0;
+}
+
+.contact-info {
+    font-weight: normal;
+}
+
+section {
+    font-style: italic;
+    margin-top: 20px;
+}
+
+section h2 {
+    font-size: 20px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+ul li {
+    list-style-type: square;
+    padding: 5px;
+    margin-bottom: 5px;
+    text-align: left;
+}
+
